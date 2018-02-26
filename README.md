@@ -80,8 +80,7 @@ This script gradually fades in a playlist or album of your choice. Enter the [Sp
 
 **Note:** This script is designed to be triggered from Calendar.app (or however you wish) using Automator. You can add Applescripts to an Automator workflow pretty easily, [here's how](https://support.apple.com/guide/automator/add-applescript-scripts-to-a-workflow-aut4bb6b2b4f/mac).
 
-**changelog:** version 2 added the shuffle feature, and version 3 added the `al\
-armMusicURI` property.
+**changelog:** version 2 added the shuffle feature, and version 3 added the `alarmMusicURI` property.
 
 **extensions:**
 
